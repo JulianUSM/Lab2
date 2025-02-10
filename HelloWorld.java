@@ -2,6 +2,7 @@ public class HelloWorld
 {
     public static void main(final String[] args) {
         System.out.println("Hi to both Alice and Bob");
+        System.out.println("Hi to Charlie");
         
         System.out.println("Here ye : important announcement");
         System.out.println("Hello World");
