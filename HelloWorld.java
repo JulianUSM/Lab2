@@ -4,6 +4,7 @@ public class HelloWorld
         System.out.println("Hi to both Alice and Bob");
         System.out.println("Hi to Charlie");
         System.out.println("Hi to Denise");
+        System.out.println("Hi to Ester");
         
         System.out.println("Here ye : important announcement");
         System.out.println("Hello World");
